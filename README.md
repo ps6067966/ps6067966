@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pratap Singh
-- 👀 I’m interested in Flutter, Qwik, Deno, Serverpod, AI, Blockchain, Meta. 
+- 👀 I’m interested in Flutter, Qwik, Deno, Serverpod, AI, Blockchain, AR/VR. 
 - 🌱 I’m currently working on Orbiting
 - 💞️ I’m looking to collaborate on more interesting projects
 - 📫 How to reach me pratap.singh.shekhawat.k@gmail.com
