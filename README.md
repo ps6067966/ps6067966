@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pratap Singh
-- 👀 I’m interested in Flutter, Celest, Qwik, Serverpod, AI, Blockchain, AR/VR. 
+- 👀 I’m interested in Flutter, Next.js, Bun.js, Node.js, Celest, Qwik, Serverpod, AI, Blockchain, AR/VR. 
 - 🌱 Founder of Agentic Academy Labs
 - 💞️ I’m looking to collaborate on more interesting projects
 - 📫 How to reach me pratap.singh.shekhawat.k@gmail.com
